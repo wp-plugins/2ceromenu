@@ -1,0 +1,265 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 2Cero Menu\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-05-31 18:10-0300\n"
+"PO-Revision-Date: 2011-05-31 18:11-0300\n"
+"Last-Translator: Guillermo Bonvehi <gbonvehi@2cero.com>\n"
+"Language-Team: 2Cero <gbonvehi@2cero.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: gettext;_;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: ARGENTINA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: c:\\projects\\wptest\\wp-content\\plugins\\DosCero.Menu\n"
+
+#: c:\projects\wptest\wp-content\plugins\DosCero.Menu/DosCero.Menu.Config.php:25
+msgid "Welcome to 2cero menu!"
+msgstr "Bienvenido a 2cero menu!"
+
+#: c:\projects\wptest\wp-content\plugins\DosCero.Menu/DosCero.Menu.Config.php:28
+msgid "This plugin allows you to create and administrate menu bars in a website."
+msgstr "Este plugin esta pensado para facilitar la creación y administración de las barras de menú en un sitio web.  "
+
+#: c:\projects\wptest\wp-content\plugins\DosCero.Menu/DosCero.Menu.Config.php:31
+msgid "With it you will be able to create different menues and allow the content to be associated to fit your needs."
+msgstr "Con este plugin puedes crear varios menus distintos y que sus contenidos estén relacionados como vos quieras."
+
+#: c:\projects\wptest\wp-content\plugins\DosCero.Menu/DosCero.Menu.Config.php:36
+msgid "Basic configuration"
+msgstr "Configuración básica"
+
+#: c:\projects\wptest\wp-content\plugins\DosCero.Menu/DosCero.Menu.Config.php:42
+msgid "<b>Create site content:</b> the posts, articles, categories, pages, etc. that will be later used to associate with this plugin"
+msgstr "<b>Crear el contenido del sitio:</b> Las notas, articulos, categorias, paginas, etc. que posteriormente serán las que vinúclaremos entre si con este plugin"
+
+#: c:\projects\wptest\wp-content\plugins\DosCero.Menu/DosCero.Menu.Config.php:47
+msgid "<b>Create the menu:</b> you can do this by using the <b>'ADD NEW'</b> button, there you will be able to start to relate the content previously created"
+msgstr "<b>Crear un menu:</b> para ello usaremos el boton <b>'AGREGAR NUEVO'</b>, luego empezaremos a jerarquizar y relacionar el contenido que previamente creamos"
+
+#: c:\projects\wptest\wp-content\plugins\DosCero.Menu/DosCero.Menu.Config.php:52
+msgid "<b>Insert the code:</b> insert the following PHP code where you want to show the menu (probably replacing the call to 'wp_nav_menu' in header.php):"
+msgstr "<b>Insertar el código:</b> inserte el siguiente código PHP donde desee renderizar el menú (probablemente reemplazando la llamada a 'wp_nav_menu' en el archivo header.php):"
+
+#: c:\projects\wptest\wp-content\plugins\DosCero.Menu/DosCero.Menu.Config.php:56
+msgid "Where it says <b>'Render(ID)'</b> you must use the number that is displayed in the <b>'MENU ID'</b> item in each created menu."
+msgstr "Donde dice <b>'Render(ID)'</b> ahí debe ir el número que aparece en <b>'MENU ID'</b> este numero lo conseguimos cuando creamos un menu."
+
+#: c:\projects\wptest\wp-content\plugins\DosCero.Menu/DosCero.Menu.Config.php:59
+msgid "<b>Another way to create a menu (using WIDGETS):</b> if you use the widget provided by this plugin <b>(2cero menu widget)</b>, it's not necessary to write any special code. The menubar will be shown where the widget was dropped."
+msgstr "<b>Otra opción usando WIDGETS:</b>  Si utilizas el widget de este plugin <b>(2cero menu widget)</b>, no es necesario escribir ningún código especial. Se mostrara la barra en donde se coloco el widget."
+
+#: c:\projects\wptest\wp-content\plugins\DosCero.Menu/DosCero.Menu.Config.php:64
+msgid "<b>Style & design:</b> once you followed the previous steps you can give a different style to our menubar. To do that, you can go to the 'Styles' page and modify all the property that you need to make it look as you want. Each property is explained to make this easier."
+msgstr "<b>Diseño y estilo:</b> una vez creado lo anterior debemos darle estilo y diseño a nuestra barra de menu o navegacion. Para eso, nos vamos hasta estilos y modificamos las propiedas que necesitamos para que quede como necesitamos. Cada propiedad esta explicada para hacer mas facil la tarea. "
+
+#: c:\projects\wptest\wp-content\plugins\DosCero.Menu/DosCero.Menu.Help.php:25
+msgid "Help 2Cero to improve!"
+msgstr "Ayuda a 2cero menu a mejorar!"
+
+#: c:\projects\wptest\wp-content\plugins\DosCero.Menu/DosCero.Menu.Help.php:28
+msgid "We hope that this plugin suits you as it did for us and our clients. That is why the only thing that we ask from you is to give us some feedback about it."
+msgstr "Esperamos que este plugin te sirva al igual que lo hizo con nosotros y nuestros clientes. Por eso lo único que te pedimos es que nos digas que pensás de este plugin."
+
+#: c:\projects\wptest\wp-content\plugins\DosCero.Menu/DosCero.Menu.Help.php:31
+msgid "Here are some questions that we make to ourselves when working with plugins:"
+msgstr "Te dejamos algunas preguntas que nos hacemos cuando trabajamos con plugins:"
+
+#: c:\projects\wptest\wp-content\plugins\DosCero.Menu/DosCero.Menu.Help.php:35
+msgid "Did you like it? Did it work on the first try? Could you adjust the design easily? Did you have any compability trouble with other plugins? Do you believe in extraterrestrial life?"
+msgstr "¿Te gustó? - ¿funcionó de una? - ¿pudiste ajustar tu diseño facilmente? - ¿tuviste problemas de compatibilidad con otros plugins? - ¿crees en los extraterrestres?"
+
+#: c:\projects\wptest\wp-content\plugins\DosCero.Menu/DosCero.Menu.Help.php:40
+msgid "email: pluginmenu@2cero.com"
+msgstr ""
+
+#: c:\projects\wptest\wp-content\plugins\DosCero.Menu/DosCero.Menu.php:90
+msgid "Create or edit your 2cero menu!"
+msgstr "Crea o edita tu menu 2cero!"
+
+#: c:\projects\wptest\wp-content\plugins\DosCero.Menu/DosCero.Menu.php:94
+msgid "Add new"
+msgstr "Agregar nuevo"
+
+#: c:\projects\wptest\wp-content\plugins\DosCero.Menu/DosCero.Menu.php:95
+msgid "Remove all"
+msgstr "Remover todos"
+
+#: c:\projects\wptest\wp-content\plugins\DosCero.Menu/DosCero.Menu.php:113
+msgid "Save"
+msgstr "Guardar"
+
+#: c:\projects\wptest\wp-content\plugins\DosCero.Menu/DosCero.Menu.php:114
+msgid "Remove"
+msgstr "Remover"
+
+#: c:\projects\wptest\wp-content\plugins\DosCero.Menu/DosCero.Menu.php:127
+msgid "click on <b>'ADD NEW'</b> and you're ready!"
+msgstr "hace click en <b>'AGREGAR NUEVO'</b> y listo!"
+
+#: c:\projects\wptest\wp-content\plugins\DosCero.Menu/DosCero.Menu.php:130
+msgid "remember that <b>'MENU ID'</b> is the number that you will later use in the PHP code to show the menu on your site"
+msgstr "acordate de el <b>'MENU ID'</b> es el numero que usaras luego en el codigo PHP para que se muestre en tu sitio."
+
+#: c:\projects\wptest\wp-content\plugins\DosCero.Menu/DosCero.Menu.php:133
+msgid "<b>HTML ID:</b> is the html unique id given to your menu. That code will allow you to apply css style or javascript to that particular menu"
+msgstr "<b>HTML ID:</b> identificacion unica del codigo html generado. Esto quiere decir que si nesecitas que este menu tenga un diseño en particular o una funcion (como que se muestre por ajax) lo podes identificar con el <b>HTML ID</b>"
+
+#: c:\projects\wptest\wp-content\plugins\DosCero.Menu/DosCero.Menu.php:136
+msgid "<b>Layout:</b> show the menu either on a horizontal (default) or vertical fasion"
+msgstr "<b>Posicion:</b> Como se tiene que mostrar el menú, de forma horizontal o vertical"
+
+#: c:\projects\wptest\wp-content\plugins\DosCero.Menu/DosCero.Menu.php:139
+msgid "<b>Expansion mode (vertical):</b> the subitems/buttons that are expanded can be configured to be shown from right to left or left to right. This is only valid for vertical menues."
+msgstr "<b>Modo de expansión (vertical):</b> los subitems o sea los botones que se desplegan de otros pueden ser configurados para que se muestren de derecha a izquierda o de izquierda a derecha. cabe aclarar que esto solo sirve para los menues verticales por razones obvias."
+
+#: c:\projects\wptest\wp-content\plugins\DosCero.Menu/DosCero.Menu.php:195
+#: c:\projects\wptest\wp-content\plugins\DosCero.Menu/DosCero.Menu.php:197
+msgid "2cero menu"
+msgstr "2cero menu"
+
+#: c:\projects\wptest\wp-content\plugins\DosCero.Menu/DosCero.Menu.php:198
+msgid "2cero menu configuration"
+msgstr "2cero menu - configuración"
+
+#: c:\projects\wptest\wp-content\plugins\DosCero.Menu/DosCero.Menu.php:198
+msgid "Configuration"
+msgstr "Configuración"
+
+#: c:\projects\wptest\wp-content\plugins\DosCero.Menu/DosCero.Menu.php:199
+msgid "2cero menu create or edit"
+msgstr "2cero menu - crear o editar"
+
+#: c:\projects\wptest\wp-content\plugins\DosCero.Menu/DosCero.Menu.php:199
+msgid "Create or edit"
+msgstr "Crear o editar"
+
+#: c:\projects\wptest\wp-content\plugins\DosCero.Menu/DosCero.Menu.php:200
+msgid "2cero menu styles"
+msgstr "2cero menu - estilos"
+
+#: c:\projects\wptest\wp-content\plugins\DosCero.Menu/DosCero.Menu.php:200
+msgid "Styles"
+msgstr "Estilos"
+
+#: c:\projects\wptest\wp-content\plugins\DosCero.Menu/DosCero.Menu.php:201
+msgid "2cero menu help"
+msgstr "2cero menu - ayuda"
+
+#: c:\projects\wptest\wp-content\plugins\DosCero.Menu/DosCero.Menu.php:201
+msgid "Help"
+msgstr "Ayuda"
+
+#: c:\projects\wptest\wp-content\plugins\DosCero.Menu/DosCero.Menu.php:209
+msgid "2Cero Menu"
+msgstr "2Cero Menu"
+
+#: c:\projects\wptest\wp-content\plugins\DosCero.Menu/DosCero.Menu.Style.php:26
+msgid "Shape your 2cero menu!"
+msgstr "Dale forma a tu menu 2cero!"
+
+#: c:\projects\wptest\wp-content\plugins\DosCero.Menu/DosCero.Menu.Style.php:28
+msgid "Now you can give the menu the style and design that you want."
+msgstr "Ahora puedes darle el estilo y el diseño que tu quieras."
+
+#: c:\projects\wptest\wp-content\plugins\DosCero.Menu/DosCero.Menu.Style.php:31
+msgid "In the following textarea you can edit the properties and, if you make something wrong, you can easily start again with the original by pressing the 'go back to original' button!"
+msgstr "En el siguiente cuadro puedes editar las propiedades y si te equivocas podes volver a la versión original para empezar de nuevo tu edición con el botón 'volver a la version original'!"
+
+#: c:\projects\wptest\wp-content\plugins\DosCero.Menu/DosCero.Menu.Style.php:34
+msgid "File"
+msgstr "Archivo"
+
+#: c:\projects\wptest\wp-content\plugins\DosCero.Menu/DosCero.Menu.Style.php:45
+msgid "save"
+msgstr "guardar"
+
+#: c:\projects\wptest\wp-content\plugins\DosCero.Menu/DosCero.Menu.Style.php:46
+msgid "go back to original"
+msgstr "volver a la versión original"
+
+#: c:\projects\wptest\wp-content\plugins\DosCero.Menu/widget/DosCero.Menu.Widget.php:137
+msgid "Page"
+msgstr "Página"
+
+#: c:\projects\wptest\wp-content\plugins\DosCero.Menu/widget/DosCero.Menu.Widget.php:138
+msgid "Post"
+msgstr "Post"
+
+#: c:\projects\wptest\wp-content\plugins\DosCero.Menu/widget/DosCero.Menu.Widget.php:139
+msgid "Category"
+msgstr "Categoría"
+
+#: c:\projects\wptest\wp-content\plugins\DosCero.Menu/widget/DosCero.Menu.Widget.php:159
+msgid "Left to right"
+msgstr "Izquierda a derecha"
+
+#: c:\projects\wptest\wp-content\plugins\DosCero.Menu/widget/DosCero.Menu.Widget.php:159
+msgid "Right to left"
+msgstr "Derecha a izquierda"
+
+#: c:\projects\wptest\wp-content\plugins\DosCero.Menu/widget/DosCero.Menu.Widget.php:190
+msgid "Title"
+msgstr "Título"
+
+#: c:\projects\wptest\wp-content\plugins\DosCero.Menu/widget/DosCero.Menu.Widget.php:195
+msgid "External link"
+msgstr "Link externo"
+
+#: c:\projects\wptest\wp-content\plugins\DosCero.Menu/widget/DosCero.Menu.Widget.php:196
+msgid "Content type"
+msgstr "Tipo de contenido"
+
+#: c:\projects\wptest\wp-content\plugins\DosCero.Menu/widget/DosCero.Menu.Widget.php:198
+msgid "Content"
+msgstr "Contenido"
+
+#: c:\projects\wptest\wp-content\plugins\DosCero.Menu/widget/DosCero.Menu.Widget.php:200
+msgid "Parent"
+msgstr "Padre"
+
+#: c:\projects\wptest\wp-content\plugins\DosCero.Menu/widget/DosCero.Menu.Widget.php:201
+msgid "Order"
+msgstr "Orden"
+
+#: c:\projects\wptest\wp-content\plugins\DosCero.Menu/widget/DosCero.Menu.Widget.php:205
+msgid "Clear"
+msgstr "Limpiar"
+
+#: c:\projects\wptest\wp-content\plugins\DosCero.Menu/widget/DosCero.Menu.Widget.php:212
+msgid "Html Id (used for CSS or JS)"
+msgstr "Html Id (usado para CSS o JS)"
+
+#: c:\projects\wptest\wp-content\plugins\DosCero.Menu/widget/DosCero.Menu.Widget.php:214
+msgid "Position"
+msgstr "Posición"
+
+#: c:\projects\wptest\wp-content\plugins\DosCero.Menu/widget/DosCero.Menu.Widget.php:215
+msgid "Expand mode (vertical)"
+msgstr "Modo de expansión (vertical)"
+
+#~ msgid "Rendering"
+#~ msgstr "Renderizado"
+
+#~ msgid ""
+#~ "It's important to note that when we mention ID we mean the item called "
+#~ "'Menu Id' displayed en each menu."
+#~ msgstr ""
+#~ "Es importante distinguir que cuando se menciona ID se refiere al item "
+#~ "'Menu Id' mostrado en cada menú."
+
+#~ msgid "Widget"
+#~ msgstr "Widget"
+
+#~ msgid ""
+#~ "If you use the menu widget, there's no need to write any special code. It "
+#~ "will be rendered in the sidebar where it was created."
+#~ msgstr ""
+#~ "Si utilizas el widget, no es necesario escribir ningún código especial. "
+#~ "Será renderizado en el sidebar dónde fue creado."
+
+#~ msgid "2Cero Help"
+#~ msgstr "2Cero Ayuda"

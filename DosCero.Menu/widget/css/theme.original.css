@@ -1,0 +1,60 @@
+/* default.css */
+
+ul.dropdown a {  
+  font-family: 'Arial';
+  font-weight: bold;
+  font-size: 13px;
+  
+}   /* link button text style */
+
+ul.dropdown li {  
+  padding: 0px 10px;
+  color: #000;
+}  /* link button box style */
+
+ul.dropdown li.hover,
+ul.dropdown li:hover {
+  background-color: #eee;
+  color: #000;
+}    /* link button box hover style */
+
+ul.dropdown a:link,
+ul.dropdown a:visited	{ color: #FFF; text-decoration: none; }
+ul.dropdown a:hover		{ color: #000; }
+ul.dropdown a:active	{ color: #FFF; }   /* link button text color style */
+
+ul.dropdown table {border-collapse:collapse; width:0; height:0; position:relative; top:0; left:0;}
+
+ul.dropdown ul {
+  /*width: 150px;*/
+  margin-top: 1px;
+}
+
+ul.dropdown ul li {
+  font-weight: normal;
+}
+
+ul.dropdown *.dir {
+  padding-right: 20px;
+  background-image: url(images/nav-arrow-down.png);
+  background-position: 100% 50%;
+  background-repeat: no-repeat;
+}
+
+ul.dropdown-horizontal ul *.dir {
+  padding-right: 15px;
+  background-image: url(images/nav-arrow-right.png);
+  background-position: 100% 50%;
+  background-repeat: no-repeat;
+}
+
+ul.dropdown-vertical *.dir {
+  background-image: url(images/nav-arrow-right.png);
+}
+
+ul.dropdown-vertical-rtl *.dir {
+  padding-right: 10px;
+  padding-left: 15px;
+  background-image: url(images/nav-arrow-left.png);
+  background-position: 0 50%;
+}
