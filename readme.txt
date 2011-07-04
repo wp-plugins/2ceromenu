@@ -1,7 +1,7 @@
 === DosCero.Menu ===
 Contributors: 2cero.com
 Donate link: http://www.2cero.com/
-Tags: menu, generator
+Tags: menu, generator, admin, plugin, widget
 Requires at least: 2.8.0
 Tested up to: 3.1.3
 Stable tag: trunk
